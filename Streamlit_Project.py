@@ -4,9 +4,12 @@ Final Project
 Description: Meteorite Landings Streamlit Project
 Date: 5/10/23
 """
-import pandas as pd
-import streamlit as st
-import matplotlib.pyplot as plt
+#import pandas as pd
+#import streamlit as st
+#import matplotlib.pyplot as plt
+pandas
+streamlit
+matplotlib
 
 def readData():
     data = pd.read_csv('CS230-app/Meteorite_Landings copy.csv')
