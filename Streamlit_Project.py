@@ -6,8 +6,9 @@ Date: 5/10/23
 """
 import pandas as pd
 import streamlit as st
+import matplotlib as plt
 #import matplotlib.pyplot as plt
-matplotlib
+
 
 def readData():
     data = pd.read_csv('CS230-app/Meteorite_Landings copy.csv')
