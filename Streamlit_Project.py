@@ -6,8 +6,8 @@ Date: 5/10/23
 """
 import pandas as pd
 import streamlit as st
-import matplotlib as plt
-#import matplotlib.pyplot as plt
+python -m pip install -U matplotlib
+import matplotlib.pyplot as plt
 
 
 def readData():
