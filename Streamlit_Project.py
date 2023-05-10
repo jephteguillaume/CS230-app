@@ -10,7 +10,7 @@ import matplotlib.pyplot as plt
 
 
 def readData():
-    data = pd.read_csv('Meteorite_Landings copy.csv')
+    data = pd.read_csv('Meteorite_Landings_copy.csv')
     # drop irrelevant columns
     data = data.drop(columns=['nametype', 'GeoLocation', 'fall', 'id'])
     # drop rows without values
