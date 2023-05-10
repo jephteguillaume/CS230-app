@@ -4,11 +4,9 @@ Final Project
 Description: Meteorite Landings Streamlit Project
 Date: 5/10/23
 """
-#import pandas as pd
-#import streamlit as st
+import pandas as pd
+import streamlit as st
 #import matplotlib.pyplot as plt
-pandas
-streamlit
 matplotlib
 
 def readData():
