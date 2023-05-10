@@ -6,7 +6,6 @@ Date: 5/10/23
 """
 import pandas as pd
 import streamlit as st
-install matplotlib
 import matplotlib.pyplot as plt
 
 
